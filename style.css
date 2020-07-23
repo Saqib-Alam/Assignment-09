@@ -1,0 +1,29 @@
+img{
+    width: 2500px;
+    height: 300px;
+}
+
+#counter{
+
+    border: 1px solid black;
+    width: 100px;
+    text-align: center;
+}
+
+.card{
+
+    width: 250px;
+    height: 300px;
+}
+
+.img{
+    width: 250px;
+    height: 200px;
+    cursor: pointer;
+}
+
+#modalImage{
+    /* width: 300px; 
+    height: 200px; */
+    width: 100%;
+}
